@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 
 """brain_games/even.py module."""
+
 from random import randint
 
 DESCRIPTION = 'Answer "yes" if number even otherwise answer "no".'

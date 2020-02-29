@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 
 """games/prime.py module."""
+
 import math
 from random import randint
 
